@@ -1,2 +1,1 @@
-# infytq
-Problem 3
+
